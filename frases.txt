@@ -1,4 +1,3 @@
 - Estado de cada cliente --> pegar o ddd pelo client_phone
 - Abandono da compra --> analisar de onde o cliente é (investigar lost reasons)
 - Tempo total de duração da conversa influencia?
-- topic modularization --> ler o texto e classificar a mensagem de acordo com a intenção da pessoa (compra, duvida, reclamação)
